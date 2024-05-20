@@ -10,21 +10,7 @@
 
 | No.  | html |
 | ------------- | ------------- |
-| 1  | <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>  |
+| 1  | 出差 |
 | 2  | Content Cell  |
 
 
@@ -43,3 +29,18 @@ You can add an image or a code block, too.
 | 11 |   |
 | 12 |   |
 
+<details>
+
+<summary>1.  VueJS的生命周期方法有哪些</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
