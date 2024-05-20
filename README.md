@@ -41,7 +41,16 @@ div {
 
 ```
 </details>
+<details>
 
+<summary>3.  元素水平垂直居中的方法有哪些？如果元素不定宽高呢？</summary>
+
+```
+/**使用边框实现*/
+
+```
+
+</details>
 
 
 ## vue
