@@ -1,7 +1,8 @@
 # front-interview-questions （前端面试问题列表）
 
+我的面试题列表的特色：我会把相关的面试题，写到一起
 
-## vue面试题
+## vue
 
 <details>
 
