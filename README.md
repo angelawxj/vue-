@@ -23,9 +23,13 @@ You can add an image or a code block, too.
 <details>
 
 <summary>2.  介绍一下标准的CSS的盒模型？与低版本IE的盒模型有什么不同的？</summary>
-      盒子模型就是 元素在网页中的实际占位，有两种：标准盒子模型和IE盒子模型
-      **标准(W3C)盒子模型：**内容content+填充padding+边框border+边界margin
-      宽高指的是 content 的宽高
-      **IE盒子模型：**内容（content+padding+border）+ 边界margin，
-      宽高指的是 content+padding+border 部分的宽高
+
+1. 在 w3c 规范中，盒子模型被定义为一个元素所占用的网页空间。
+
+2. 盒模型由4部分组成：margin(外边距)、border(边框)、padding(内边距)、content(内容)
+
+3. 盒模型有两种：标准盒模型、IE盒模型, 区别: 在于设置 width 和 height 的时候，对应的范围不同。
+   标准盒模型： width = content
+   IE盒模型：   width = content + padding + border
+
 </details>
