@@ -80,3 +80,20 @@ You can add an image or a code block, too.
 ![图片描述](http://example.com/image.png)
 
 </details>
+<details>
+
+<summary>2.  跨域是什么？Vue项目中你是如何解决跨域的呢？</summary>
+
+1.定义：跨域本质是浏览器基于**同源策略**的一种安全手段。 所谓同源（即指在同一个域）具有以下三个相同点：
+ 
+| ------------- | 
+| 协议相同（protocol）| 
+| 主机相同（host）    | 
+|  端口相同（port）   |
+
+You can add an image or a code block, too.
+
+
+</details>
+
+
