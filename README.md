@@ -29,6 +29,7 @@ You can add an image or a code block, too.
 2. 组成：margin(外边距)、border(边框)、padding(内边距)、content(内容)
 
 3. 标准盒模型、IE盒模型的区别: 在于设置 width 和 height 的时候，对应的范围不同。
+   
    标准盒模型： width = content
    IE盒模型：   width = content + padding + border
 
