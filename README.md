@@ -35,7 +35,17 @@ div {
   }
 /**使用边框实现*/
 ```
-
+##进阶：实现一个空心三角形
+```
+div {
+    width: 0;
+    height: 0;
+    border-top: 50px solid pink;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+  }
+/**使用边框实现*/
+```
 </details>
 
 
