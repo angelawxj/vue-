@@ -26,7 +26,7 @@ You can add an image or a code block, too.
 
 1. 定义： 在 w3c 规范中，盒子模型被定义为一个元素所占用的网页空间。
 
-2. 盒模型由4部分组成：margin(外边距)、border(边框)、padding(内边距)、content(内容)
+2. 组成：margin(外边距)、border(边框)、padding(内边距)、content(内容)
 
 3. 标准盒模型、IE盒模型的区别: 在于设置 width 和 height 的时候，对应的范围不同。
    标准盒模型： width = content
