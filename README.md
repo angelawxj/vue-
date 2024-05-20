@@ -22,5 +22,5 @@ You can add an image or a code block, too.
 </details>
 <details>
 
-<summary>2.  说说你对Vue生命周期的理解？</summary>
+<summary>2.  介绍一下标准的CSS的盒子模型？与低版本IE的盒子模型有什么不同的？</summary>
 </details>
