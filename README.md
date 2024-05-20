@@ -20,3 +20,7 @@ You can add an image or a code block, too.
 ![图片描述](http://example.com/image.png)
 
 </details>
+<details>
+
+<summary>2.  说说你对Vue生命周期的理解？</summary>
+</details>
