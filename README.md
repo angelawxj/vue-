@@ -6,7 +6,7 @@
 
 <details>
 
-<summary>2.  介绍一下标准的CSS的盒模型？与低版本IE的盒模型有什么不同的？</summary>
+<summary>1.  介绍一下标准的CSS的盒模型？与低版本IE的盒模型有什么不同的？</summary>
 
 
 1. 定义： 在 w3c 规范中，盒子模型被定义为一个元素所占用的网页空间。
@@ -20,6 +20,24 @@
    IE盒模型：   width = content + padding + border
 
 </details>
+<details>
+
+<summary>2.  css 实现三角形</summary>
+
+
+```
+div {
+    width: 0;
+    height: 0;
+    border-top: 50px solid pink;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+  }
+/**使用边框实现*/
+```
+
+</details>
+
 
 
 ## vue
