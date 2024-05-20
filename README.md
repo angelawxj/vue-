@@ -1,8 +1,7 @@
-# front-interview-questions
-## 前端面试问题列表
+# front-interview-questions （前端面试问题列表）
 
 
-| No.  | vue面试题 |
+## vue面试题
 
 <details>
 
