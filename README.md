@@ -17,6 +17,6 @@ You can add an image or a code block, too.
 ```ruby
    puts "Hello World"
 ```
-![Uploading lifecycle_zh-CN.W0MNXI0C.png…]()
+![图片描述](http://example.com/image.png)
 
 </details>
