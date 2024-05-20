@@ -6,7 +6,7 @@
 
 <details>
 
-<summary>1.  VueJS的生命周期方法有哪些</summary>
+<summary>1.  说说你对Vue生命周期的理解？</summary>
 
 ### You can add a header
 
