@@ -51,7 +51,16 @@ div {
 ```
 
 </details>
+<details>
 
+<summary>4.  说说flexbox（弹性盒布局模型）,以及适用场景？</summary>
+
+```
+/**使用边框实现*/
+
+```
+
+</details>
 
 ## vue
 
