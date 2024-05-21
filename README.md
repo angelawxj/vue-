@@ -2,7 +2,7 @@
 
 我的面试题列表的特色：我会把相关的面试题，写到一起
 
-## css
+## css系列
 
 <details>
 
@@ -62,7 +62,42 @@ div {
 
 </details>
 
-## vue
+## HTML 系列
+<details>
+
+<summary>1.  说说你对Vue生命周期的理解？</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+![图片描述](http://example.com/image.png)
+
+</details>
+## Javascript系列
+<details>
+
+<summary>1.  说说你对Vue生命周期的理解？</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+![图片描述](http://example.com/image.png)
+
+</details>
+
+## vue系列
 
 <details>
 
