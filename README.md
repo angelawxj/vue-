@@ -62,7 +62,7 @@ div {
 
 </details>
 
-## HTML 系列
+## Html 系列
 <details>
 
 <summary>1.  说说你对Vue生命周期的理解？</summary>
@@ -79,7 +79,7 @@ You can add an image or a code block, too.
 ![图片描述](http://example.com/image.png)
 
 </details>
-## Javascript系列
+
 <details>
 
 <summary>1.  说说你对Vue生命周期的理解？</summary>
