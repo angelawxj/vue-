@@ -2,7 +2,7 @@
 
 我的面试题列表的特色：我会把相关的面试题，写到一起
 
-## vue系列
+## vue
 
 <details>
 
@@ -34,14 +34,14 @@ You can add an image or a code block, too.
    3. Proxy
 </details>
 
-## vue3系列
+## vue3
 
-## ES6系列
+## ES6
 
-## Javascript系列
+## Javascript
 
 
-## css 系列
+## css 
 
 <details>
 
@@ -101,7 +101,7 @@ div {
 
 </details>
 
-## Html 系列
+## Html
 <details>
 
 <summary>1.  说说你对Vue生命周期的理解？</summary>
@@ -119,7 +119,16 @@ You can add an image or a code block, too.
 
 </details>
 
+## 浏览器
+<details>
+<summary>1. </summary>
+</details>
 
+## webpack
+
+## http
+
+## 小程序
 
 
 
