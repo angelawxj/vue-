@@ -114,6 +114,11 @@ div {
 <summary>1.  </summary>
 </details>
 
+## 算法
+<details>
+<summary>1. </summary>
+</details>
+
 ## 浏览器
 <details>
 <summary>1. </summary>
