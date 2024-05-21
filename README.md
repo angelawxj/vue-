@@ -80,22 +80,9 @@ You can add an image or a code block, too.
 
 </details>
 
-<details>
+## Javascript系列
 
-<summary>1.  说说你对Vue生命周期的理解？</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-![图片描述](http://example.com/image.png)
-
-</details>
+## ES6系列
 
 ## vue系列
 
@@ -129,4 +116,5 @@ You can add an image or a code block, too.
    3. Proxy
 </details>
 
+## vue3系列
 
