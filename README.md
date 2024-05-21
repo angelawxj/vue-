@@ -2,6 +2,41 @@
 
 我的面试题列表的特色：我会把相关的面试题，写到一起
 
+## vue系列
+
+<details>
+
+<summary>1.  说说你对Vue生命周期的理解？</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+![图片描述](http://example.com/image.png)
+
+</details>
+<details>
+
+<summary>2.  跨域是什么？Vue项目中你是如何解决跨域的呢？</summary>
+
+1. 定义：跨域本质是浏览器基于**同源策略**的一种安全手段。 所谓同源（即指在同一个域）具有以下三个相同点：
+   1. 协议相同（protocol）
+   2. 主机相同（host）
+   3. 端口相同（port）
+2. 解决跨域
+   1. JSONP
+   2. CORS
+   3. Proxy
+</details>
+
+## vue3系列
+
+
 ## css 系列
 
 <details>
@@ -84,37 +119,4 @@ You can add an image or a code block, too.
 
 ## ES6系列
 
-## vue系列
-
-<details>
-
-<summary>1.  说说你对Vue生命周期的理解？</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-![图片描述](http://example.com/image.png)
-
-</details>
-<details>
-
-<summary>2.  跨域是什么？Vue项目中你是如何解决跨域的呢？</summary>
-
-1. 定义：跨域本质是浏览器基于**同源策略**的一种安全手段。 所谓同源（即指在同一个域）具有以下三个相同点：
-   1. 协议相同（protocol）
-   2. 主机相同（host）
-   3. 端口相同（port）
-2. 解决跨域
-   1. JSONP
-   2. CORS
-   3. Proxy
-</details>
-
-## vue3系列
 
